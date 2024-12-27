@@ -1,0 +1,14 @@
+E:\Root course\c#\Basics\OOP-03\Assignment-3_OOP\bin\Debug\net8.0\Assignment-3_OOP.exe
+E:\Root course\c#\Basics\OOP-03\Assignment-3_OOP\bin\Debug\net8.0\Assignment-3_OOP.deps.json
+E:\Root course\c#\Basics\OOP-03\Assignment-3_OOP\bin\Debug\net8.0\Assignment-3_OOP.runtimeconfig.json
+E:\Root course\c#\Basics\OOP-03\Assignment-3_OOP\bin\Debug\net8.0\Assignment-3_OOP.dll
+E:\Root course\c#\Basics\OOP-03\Assignment-3_OOP\bin\Debug\net8.0\Assignment-3_OOP.pdb
+E:\Root course\c#\Basics\OOP-03\Assignment-3_OOP\obj\Debug\net8.0\Assignment-3_OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Root course\c#\Basics\OOP-03\Assignment-3_OOP\obj\Debug\net8.0\Assignment-3_OOP.AssemblyInfoInputs.cache
+E:\Root course\c#\Basics\OOP-03\Assignment-3_OOP\obj\Debug\net8.0\Assignment-3_OOP.AssemblyInfo.cs
+E:\Root course\c#\Basics\OOP-03\Assignment-3_OOP\obj\Debug\net8.0\Assignment-3_OOP.csproj.CoreCompileInputs.cache
+E:\Root course\c#\Basics\OOP-03\Assignment-3_OOP\obj\Debug\net8.0\Assignment-3_OOP.dll
+E:\Root course\c#\Basics\OOP-03\Assignment-3_OOP\obj\Debug\net8.0\refint\Assignment-3_OOP.dll
+E:\Root course\c#\Basics\OOP-03\Assignment-3_OOP\obj\Debug\net8.0\Assignment-3_OOP.pdb
+E:\Root course\c#\Basics\OOP-03\Assignment-3_OOP\obj\Debug\net8.0\Assignment-3_OOP.genruntimeconfig.cache
+E:\Root course\c#\Basics\OOP-03\Assignment-3_OOP\obj\Debug\net8.0\ref\Assignment-3_OOP.dll

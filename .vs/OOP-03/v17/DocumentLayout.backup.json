@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Root course\\c#\\Basics\\OOP-03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B14A35D-AB00-4154-8A26-3D980DF7ED57}|Assignment-3_OOP\\Assignment-3_OOP.csproj|e:\\root course\\c#\\basics\\oop-03\\assignment-3_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B14A35D-AB00-4154-8A26-3D980DF7ED57}|Assignment-3_OOP\\Assignment-3_OOP.csproj|solutionrelative:assignment-3_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B14A35D-AB00-4154-8A26-3D980DF7ED57}|Assignment-3_OOP\\Assignment-3_OOP.csproj|e:\\root course\\c#\\basics\\oop-03\\assignment-3_oop\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B14A35D-AB00-4154-8A26-3D980DF7ED57}|Assignment-3_OOP\\Assignment-3_OOP.csproj|solutionrelative:assignment-3_oop\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B14A35D-AB00-4154-8A26-3D980DF7ED57}|Assignment-3_OOP\\Assignment-3_OOP.csproj|e:\\root course\\c#\\basics\\oop-03\\assignment-3_oop\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B14A35D-AB00-4154-8A26-3D980DF7ED57}|Assignment-3_OOP\\Assignment-3_OOP.csproj|solutionrelative:assignment-3_oop\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B14A35D-AB00-4154-8A26-3D980DF7ED57}|Assignment-3_OOP\\Assignment-3_OOP.csproj|e:\\root course\\c#\\basics\\oop-03\\assignment-3_oop\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B14A35D-AB00-4154-8A26-3D980DF7ED57}|Assignment-3_OOP\\Assignment-3_OOP.csproj|solutionrelative:assignment-3_oop\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B14A35D-AB00-4154-8A26-3D980DF7ED57}|Assignment-3_OOP\\Assignment-3_OOP.csproj|e:\\root course\\c#\\basics\\oop-03\\assignment-3_oop\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B14A35D-AB00-4154-8A26-3D980DF7ED57}|Assignment-3_OOP\\Assignment-3_OOP.csproj|solutionrelative:assignment-3_oop\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B14A35D-AB00-4154-8A26-3D980DF7ED57}|Assignment-3_OOP\\Assignment-3_OOP.csproj|e:\\root course\\c#\\basics\\oop-03\\assignment-3_oop\\irectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B14A35D-AB00-4154-8A26-3D980DF7ED57}|Assignment-3_OOP\\Assignment-3_OOP.csproj|solutionrelative:assignment-3_oop\\irectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\OOP-03\\Assignment-3_OOP\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Assignment-3_OOP\\Rectangle.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\OOP-03\\Assignment-3_OOP\\Rectangle.cs",
+              "RelativeToolTip": "Assignment-3_OOP\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:39:40.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\OOP-03\\Assignment-3_OOP\\Circle.cs",
+              "RelativeDocumentMoniker": "Assignment-3_OOP\\Circle.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\OOP-03\\Assignment-3_OOP\\Circle.cs",
+              "RelativeToolTip": "Assignment-3_OOP\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:39:04.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRectangle.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\OOP-03\\Assignment-3_OOP\\IRectangle.cs",
+              "RelativeDocumentMoniker": "Assignment-3_OOP\\IRectangle.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\OOP-03\\Assignment-3_OOP\\IRectangle.cs",
+              "RelativeToolTip": "Assignment-3_OOP\\IRectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:33:56.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICircle.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\OOP-03\\Assignment-3_OOP\\ICircle.cs",
+              "RelativeDocumentMoniker": "Assignment-3_OOP\\ICircle.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\OOP-03\\Assignment-3_OOP\\ICircle.cs",
+              "RelativeToolTip": "Assignment-3_OOP\\ICircle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:32:15.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\OOP-03\\Assignment-3_OOP\\IShape.cs",
+              "RelativeDocumentMoniker": "Assignment-3_OOP\\IShape.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\OOP-03\\Assignment-3_OOP\\IShape.cs",
+              "RelativeToolTip": "Assignment-3_OOP\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:27:34.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\OOP-03\\Assignment-3_OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment-3_OOP\\Program.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\OOP-03\\Assignment-3_OOP\\Program.cs",
+              "RelativeToolTip": "Assignment-3_OOP\\Program.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAcwIgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:34:35.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
